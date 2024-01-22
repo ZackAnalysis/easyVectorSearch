@@ -1,4 +1,4 @@
-# My App
+# Easy Verctor Search
 
 This is a FastAPI and React application that allows users to upload JSON files to ChromaDB and perform text searches in ChromaDB.
 
@@ -34,7 +34,7 @@ docker-compose up
 
 This will start two Docker containers: one for the FastAPI backend and one for the React frontend.
 
-The FastAPI backend will be accessible at `http://localhost:8000`, and the React frontend will be accessible at `http://localhost:3000`.
+The FastAPI backend will be accessible at `http://localhost:8631`, and the React frontend will be accessible at `http://localhost:8632`.
 
 ## Usage
 
